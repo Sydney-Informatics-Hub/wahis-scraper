@@ -48,3 +48,15 @@ This will read all reports deposited in the output directory, and write back `re
 This tool was developed by the Sydney Informatics Hub, a core research facility of The University of Sydney.
 
 If using this scraper and its data output in your research, please acknowledge the Sydney Informatics Hub in publications.
+
+         /  /\        ___          /__/\   
+        /  /:/_      /  /\         \  \:\  
+       /  /:/ /\    /  /:/          \__\:\ 
+      /  /:/ /::\  /__/::\      ___ /  /::\
+     /__/:/ /:/\:\ \__\/\:\__  /__/\  /:/\:\
+    \  \:\/:/~/:/    \  \:\/\ \  \:\/:/__\/
+      \  \::/ /:/      \__\::/  \  \::/    
+       \__\/ /:/       /__/:/    \  \:\    
+         /__/:/ please \__\/      \  \:\   
+         \__\/ acknowledge your use\__\/   
+
