@@ -1,0 +1,9 @@
+name: wahis-scraper
+channels:
+ - defaults
+ - conda-forge
+dependencies:
+- python-chromedriver-binary
+- pandas
+- selenium
+- tqdm
